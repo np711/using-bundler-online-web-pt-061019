@@ -1,4 +1,4 @@
-require_relateive '../config/environment'
+require 'mail'
 
 Hashie
 Sinatra
